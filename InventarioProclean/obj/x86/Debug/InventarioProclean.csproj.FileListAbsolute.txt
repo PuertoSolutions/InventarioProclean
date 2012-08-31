@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\InventarioProclean.exe
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\InventarioProclean.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Properties.Resources.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.csproj.GenerateResource.Cache
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.exe
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Principal.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Proveedores.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Facturas.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Egresos.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Codigos.resources
