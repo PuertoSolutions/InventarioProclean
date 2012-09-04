@@ -10,7 +10,7 @@ using System.Windows.Forms;
 namespace InventarioProclean
 {
     public partial class Ventana_Principal : Form
-    {
+    {        
         public Ventana_Principal()
         {
             InitializeComponent();
@@ -38,6 +38,23 @@ namespace InventarioProclean
         {
             Ventana_Codigos venCod = new Ventana_Codigos();
             venCod.ShowDialog();
+        }
+
+        private void órdenesDeComprasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ventana_Orden venOrd = new Ventana_Orden();
+            venOrd.ShowDialog();
+        }
+
+        private void centrosDeCostosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ventana_Centros venCen = new Ventana_Centros();
+            venCen.ShowDialog();
+        }
+
+        private void Ventana_Principal_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -9,3 +9,15 @@ C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\De
 C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Facturas.resources
 C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Egresos.resources
 C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Codigos.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Orden.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\obj\x86\Debug\InventarioProclean.Ventana_Centros.resources
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\InventarioProclean.exe.config
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\Libreria.dll
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\Libreria.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\InventarioProclean\bin\Debug\MongoDB.Driver.xml

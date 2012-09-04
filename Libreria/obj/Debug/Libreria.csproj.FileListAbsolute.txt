@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\Libreria.dll
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\obj\Debug\Libreria.dll
+C:\Users\Mario\Documents\GitHub\InventarioProclean\Libreria\obj\Debug\Libreria.pdb

@@ -109,6 +109,7 @@
             this.órdenesDeComprasToolStripMenuItem.Name = "órdenesDeComprasToolStripMenuItem";
             this.órdenesDeComprasToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.órdenesDeComprasToolStripMenuItem.Text = "Órdenes de Compras";
+            this.órdenesDeComprasToolStripMenuItem.Click += new System.EventHandler(this.órdenesDeComprasToolStripMenuItem_Click);
             // 
             // generalesToolStripMenuItem
             // 
@@ -123,6 +124,7 @@
             this.centrosDeCostosToolStripMenuItem.Name = "centrosDeCostosToolStripMenuItem";
             this.centrosDeCostosToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
             this.centrosDeCostosToolStripMenuItem.Text = "Centros de Costos";
+            this.centrosDeCostosToolStripMenuItem.Click += new System.EventHandler(this.centrosDeCostosToolStripMenuItem_Click);
             // 
             // tableLayoutPanel1
             // 
@@ -239,6 +241,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Ventana_Principal";
             this.Text = "Ventana Principal";
+            this.Load += new System.EventHandler(this.Ventana_Principal_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.tableLayoutPanel1.ResumeLayout(false);
